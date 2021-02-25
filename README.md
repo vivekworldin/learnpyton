@@ -1,0 +1,2 @@
+# learnpyton
+AI projects
